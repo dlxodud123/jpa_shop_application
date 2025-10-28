@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 import java.util.stream.Collectors;
 
-// xToOne(ManyToOne, OneToOne)
+// xToOne(ManyToOne, OneToOne) 
 // order
 // order -> member
 // order -> delivery
